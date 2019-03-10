@@ -1,11 +1,6 @@
 
 
-/*
- * HTTP Client POST Request
- * Copyright (c) 2018, circuits4you.com
- * All rights reserved.
- * https://circuits4you.com 
- * Connects to WiFi HotSpot. */
+
 int Cpin = A0;   //current sencer pin
  
 #include <ESP8266WiFi.h>
